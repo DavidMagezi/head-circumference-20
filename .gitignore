@@ -1,2 +1,14 @@
+objs
 bin
 gcm.cache
+documentation/html/
+documentation/latex/Makefile
+*.aux
+*.idx
+*.ilg
+*.ind
+*.log
+*.out
+*.sty
+*.tex
+*.toc
